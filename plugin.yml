@@ -1,0 +1,52 @@
+name: BlecraftBans
+version: 8.5
+main: net.skaerf.blecraft.Main
+commands:
+   
+   ban:
+      description: Ban a player permanently
+      usage: /<command>
+      
+   tempban:
+      description: Temporarily ban a player
+      usage: /<command>
+      
+   unban:
+      description: Unban a player
+      usage: /<command>
+      
+   kick:
+      description: Kick a player
+      usage: /<command>
+
+   mute:
+      description: Mute a player permanently
+      usage: /<command>
+      
+   tempmute:
+      description: Temporarily mute a player
+      usage: /<command>
+      
+   unmute:
+      description: Unmute a player
+      usage: /<command>
+      
+   history:
+      description: View the ban history of a player
+      usage: /<command>
+
+   banlist:
+      description: View the global ban list
+      usage: /<command>
+      
+   ipban:
+      description: IPban a player permanently
+      usage: /<command>
+      
+   tempipban:
+      description: Temporarily IPban a player
+      usage: /<command>
+
+   unipban:
+      description: Unipban a player
+      usage: /<command>
